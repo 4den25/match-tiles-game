@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: 133f021e6a7dcf842a3adabb7ab1c43a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Agito
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 27
+        width: 185
+        height: 257
+      alignment: 9
+      pivot: {x: 0.4945946, y: 0.4766537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b76edbcf94d21429405e3d073276b1
+      internalID: 640322579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arkone
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1025
+        width: 680
+        height: 1022
+      alignment: 9
+      pivot: {x: 0.46838236, y: 0.5024462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e312106afbf1cca41b47002fac3485e5
+      internalID: -848133458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 285
+        width: 186
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47876447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838b22d6e404e24488465054ba91fd75
+      internalID: 1127935413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Build
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 811
+        width: 191
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5183246, y: 0.49803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a538d90117719742970bea6bb1570f5
+      internalID: -1284726827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decade
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 24
+        width: 184
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5163044, y: 0.5212355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb5cdc88f64404ab44a5ab1540600a
+      internalID: 219987541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deno
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 988
+        width: 193
+        height: 268
+      alignment: 9
+      pivot: {x: 0.48704663, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe4a1c9e5618df4682826bf2e1b93d2
+      internalID: 325727643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drive
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 546
+        width: 183
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5136612, y: 0.51195216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cabcd6d94fac0145bcdce28f335fbd3
+      internalID: -1072825786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exaid
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 33
+        width: 185
+        height: 254
+      alignment: 9
+      pivot: {x: 0.4918919, y: 0.48622048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cfe05a73dc3924ebb5e552d59209dc
+      internalID: 716913693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faiz
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 185
+        height: 265
+      alignment: 9
+      pivot: {x: 0.4972973, y: 0.47358492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d60fa8651a090b41a37794027a72412
+      internalID: 1891598052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fourze
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1571
+        width: 203
+        height: 251
+      alignment: 9
+      pivot: {x: 0.49014777, y: 0.47011954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95958c3691a42b24baa2a73de4b5ab41
+      internalID: 1687837141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaim
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1519
+        width: 199
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4880478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d267700f2ea0bb54ba6bb93d3662fafb
+      internalID: -636783273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geat
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 187
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5, y: 0.509542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d07b08ac45b34c8d9ce12c449b344
+      internalID: -2013157830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1068
+        width: 195
+        height: 258
+      alignment: 9
+      pivot: {x: 0.50256413, y: 0.50775194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e270a7a0b958b46b068e5885f2936c
+      internalID: -819567928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotchard
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1772
+        width: 220
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecaccff8eef08c47aa9b553dde2ebae
+      internalID: -1817058790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hibiki
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1047
+        width: 195
+        height: 245
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.53265303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ec7c54120387549ada58e7700ac46d
+      internalID: -1311284307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabuto
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1567
+        width: 174
+        height: 255
+      alignment: 9
+      pivot: {x: 0.48563218, y: 0.527451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a688336d4720d9144a7d30514fd43cee
+      internalID: -718164346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiva
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 550
+        width: 185
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5054054, y: 0.51417005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1975c867b06a43884cfc6d59a3ca1
+      internalID: -2105902408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuuga
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 289
+        width: 187
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49465242, y: 0.46078432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b17a1050a4fe6f42a7102de6167e5c2
+      internalID: 1539831241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOO
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1824
+        width: 212
+        height: 223
+      alignment: 9
+      pivot: {x: 0.49292454, y: 0.5246637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21642937df141a142afae224e4fe9e9f
+      internalID: -1250136389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revi
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 546
+        width: 188
+        height: 263
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51140684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80d0cf817cd41644a7093fff54d9de9
+      internalID: -1590456042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuki
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1328
+        width: 196
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be54b4f51504f24cb5c9f5ed4643fdf
+      internalID: -549453772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1294
+        width: 198
+        height: 275
+      alignment: 9
+      pivot: {x: 0.47474748, y: 0.47636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44aa9996bef8f74ca2ae064057280e9
+      internalID: 1481241641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vice
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1258
+        width: 198
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5, y: 0.507722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeae92f3372bd74e9f02ba8d84a2aa9
+      internalID: 1643447486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 546
+        width: 183
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.4681275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ffa9a6c1116c469c011abad72413e
+      internalID: -369690728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 799
+        width: 190
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49186993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e5d539825d4274e90d048aadf041b7
+      internalID: 448938861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeroone
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 286
+        width: 183
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5163934, y: 0.49031007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2f974a8d2ef234ebfcbc3618da5de3
+      internalID: 1422576031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zio
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 550
+        width: 185
+        height: 247
+      alignment: 9
+      pivot: {x: 0.4945946, y: 0.51417005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3a6d72329bb0a44a5aa8297121874d
+      internalID: -33678965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 930
+        width: 753
+        height: 1117
+      alignment: 9
+      pivot: {x: 0.5059761, y: 0.49462846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9343bdaddf41c34d98a4aa079f84a4f
+      internalID: -731516275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7bd6609f760c2434aa97403ee0be8cb0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Agito: 640322579
+      Arkone: -848133458
+      Blade: 1127935413
+      Build: -1284726827
+      Decade: 219987541
+      Deno: 325727643
+      Drive: -1072825786
+      Exaid: 716913693
+      Faiz: 1891598052
+      Fourze: 1687837141
+      Gaim: -636783273
+      Geat: -2013157830
+      Ghost: -819567928
+      Gotchard: -1817058790
+      Hibiki: -1311284307
+      Kabuto: -718164346
+      Kiva: -2105902408
+      Kuuga: 1539831241
+      OOO: -1250136389
+      Revi: -1590456042
+      Ryuki: -549453772
+      Saber: 1481241641
+      Vice: 1643447486
+      W: -369690728
+      Wizard: 448938861
+      Zeroone: 1422576031
+      Zio: -33678965
+      Zombie: -731516275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Timer
+  - StartBtn
+  - Floor
+  - Zeroone
+  - Zombie
+  - Arkone
+  - Saber
+  - Revi
+  - Vice
+  - Geat
+  - Gotchard
+  - Kuuga
+  - Agito
+  - Ryuki
+  - Faiz
+  - Blade
+  - Hibiki
+  - Kabuto
+  - Deno
+  - Kiva
+  - Decade
+  - W
+  - OOO
+  - Fourze
+  - Wizard
+  - Gaim
+  - Drive
+  - Ghost
+  - Exaid
+  - Build
+  - Zio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

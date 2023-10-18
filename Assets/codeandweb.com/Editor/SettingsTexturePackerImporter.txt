@@ -1,0 +1,17 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprites/KR Sprites.tpsheet
+- Assets/Sprites/SpiteSheet.tpsheet
+- Assets/Sprites/StartScreenSpriteSheet.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprites/KR Sprites.png
+- Assets/Sprites/SpiteSheet.png
+- Assets/Sprites/StartScreenSpriteSheet.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+enableDebugOutput: 0
